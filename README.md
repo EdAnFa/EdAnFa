@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EdAnFa
+- 👋 Hi, I’m @Edivânia
 - 👀 I’m interested in  Inteligência Artificial e Desenvolvimento de Jogos.
 - 🌱 I’m currently learning  Linguagem C e Python.
 - 💞️ I’m looking to collaborate on ...
